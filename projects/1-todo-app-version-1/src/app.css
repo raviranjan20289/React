@@ -1,0 +1,18 @@
+.heading-containers{
+   font-weight: 900;
+   font-size: 45px;
+   margin: 7px;
+   margin-bottom: 10px;
+}
+
+input{
+    width: 100;
+}
+
+.rs-row{
+    text-align: left;
+    margin: 10px 5px;
+}
+.rs-button{
+    min-width: 80px;
+}
