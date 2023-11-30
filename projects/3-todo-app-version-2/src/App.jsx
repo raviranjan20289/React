@@ -22,7 +22,6 @@ function App() {
     <center className="todo-container">
       <AppName></AppName>
       <AddTodo></AddTodo>
-
       <TodoItems todoItems={todoItems}></TodoItems>
     </center>
   );
